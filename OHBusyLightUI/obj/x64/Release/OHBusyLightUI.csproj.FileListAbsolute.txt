@@ -1,0 +1,9 @@
+C:\Users\jxs397\source\repos\OHBusyLightUI\OHBusyLightUI\obj\x64\Release\OHBusyLightUI.ColorSchemaUi.resources
+C:\Users\jxs397\source\repos\OHBusyLightUI\OHBusyLightUI\obj\x64\Release\OHBusyLightUI.csproj.GenerateResource.cache
+C:\Users\jxs397\source\repos\OHBusyLightUI\OHBusyLightUI\bin\x64\Release\OHBusyLightUI.dll
+C:\Users\jxs397\source\repos\OHBusyLightUI\OHBusyLightUI\bin\x64\Release\OHBusyLightUI.pdb
+C:\Users\jxs397\source\repos\OHBusyLightUI\OHBusyLightUI\obj\x64\Release\OHBusyLightUI.dll
+C:\Users\jxs397\source\repos\OHBusyLightUI\OHBusyLightUI\obj\x64\Release\OHBusyLightUI.pdb
+C:\Users\jxs397\source\repos\OHBusyLightUI\OHBusyLightUI\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\jxs397\source\repos\OHBusyLightUI\OHBusyLightUI\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\jxs397\source\repos\OHBusyLightUI\OHBusyLightUI\obj\x64\Release\OHBusyLightUI.csproj.CopyComplete
